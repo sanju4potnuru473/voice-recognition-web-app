@@ -1,0 +1,36 @@
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: rgb(0, 0, 0);
+    background-color: rgb(122, 199, 154);
+    
+    
+}
+
+.btn-info{
+    text-align: center;
+    margin: auto;
+    color: ivory;
+    background-color: rgb(0, 0, 0);
+   display: grid;
+}
+
+.result_label{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    display: flex;
+}
+
+.copy_right_footer
+{
+    background-color: rgb(191, 245, 203);
+    text-align: center;
+    font-size: large;
+    font-weight: lighter;
+    text-shadow: 4px 4px 4px ;
+    bottom: 0;
+}
+
